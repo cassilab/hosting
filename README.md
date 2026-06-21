@@ -1,2 +1,2 @@
-# Images
-Images Needed For Hosting
+# Auth0
+Assets needed for Auth0 branding.
